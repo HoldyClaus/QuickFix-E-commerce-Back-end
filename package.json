@@ -1,5 +1,6 @@
 {
-    "name": "module-13-challenge-orm",
+    "name": "quickfix-e-commerce-back-end",
+
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -11,7 +12,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+      "url": "git@github.com:HoldyClaus/QuickFix-E-commerce-Back-end.git"
     },
     "keywords": [],
     "author": "",
