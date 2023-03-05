@@ -13,9 +13,8 @@
 E-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017. Thus we are attempting to create a back end for the said e-commerce platform.
 
 ## Visuals
-![FrontPage]
-![Notes]
-![Savenotes]
+![shot1](/assets/pic%201.JPG)
+![shot2](/assets/pic%202.JPG)
 
 ## Installation
 Make sure you have node module installed onto your machine and seed the database. With the use of insomnia one can edit the backend of the repo and this has no front end.
