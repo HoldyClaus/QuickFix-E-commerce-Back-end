@@ -16,6 +16,9 @@ E-commerce, is the largest sector of the electronics industry, having generated 
 ![shot1](/assets/pic%201.JPG)
 ![shot2](/assets/pic%202.JPG)
 
+Link to video on how to use E-commerce back end:
+https://drive.google.com/file/d/1jgilfQS1WWtLHykExTx16Y0gStsFbsmb/view
+
 ## Installation
 Make sure you have node module installed onto your machine and seed the database. With the use of insomnia one can edit the backend of the repo and this has no front end.
 
